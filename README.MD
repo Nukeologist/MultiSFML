@@ -1,7 +1,5 @@
-**Personal simple Blueprint for 2D SFML Games**
+#**Template for MultiPlatform SFML**
 
-Im using MinGW64 7.3.0 (Version is important)   
-
-place SFML in the libs folder. Tgui was deleted but can be found in v0.1
+Windows: uses MinGW64 7.3.0 (Version is important), copies a bunch of dll*s*.
 
 ##
